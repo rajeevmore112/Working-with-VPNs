@@ -96,3 +96,9 @@ Using ProtonVPN successfully demonstrated:
 
 VPNs are essential for secure browsing, privacy protection, and safely using public Wi-Fi networks.
 
+## Repository Structure
+Working-With-VPNs/
+├── README.md             
+└── Screenshots
+
+## Note: IP addresses have been partially hidden in screenshots for privacy reasons.
